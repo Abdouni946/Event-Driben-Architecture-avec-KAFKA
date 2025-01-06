@@ -1,4 +1,4 @@
-package org.yassinmk.demokafkaspring;
+package org.zakariae.demokafkaspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package org.yassinmk.demokafkaspring.entitie;
+package org.zakariae.demokafkaspring.entitie;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

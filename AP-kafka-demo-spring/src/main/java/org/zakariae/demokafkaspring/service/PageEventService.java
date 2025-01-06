@@ -1,9 +1,9 @@
-package org.yassinmk.demokafkaspring.service;
+package org.zakariae.demokafkaspring.service;
 
 import org.springframework.cloud.stream.function.StreamBridge;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
-import org.yassinmk.demokafkaspring.entitie.PageEvent;
+import org.zakariae.demokafkaspring.entitie.PageEvent;
 
 import java.util.Date;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package org.yassinmk.demokafkaspring.controller;
+package org.zakariae.demokafkaspring.controller;
 
 import org.springframework.cloud.stream.function.StreamBridge;
 import org.springframework.stereotype.Controller;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
-import org.yassinmk.demokafkaspring.entitie.PageEvent;
+import org.zakariae.demokafkaspring.entitie.PageEvent;
 
 import java.util.Date;
 import java.util.Random;
